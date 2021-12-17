@@ -1,0 +1,51 @@
+body {
+    background-color: lightgray ;
+    font-family: 'Lobster', cursive;
+}
+nav, section {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.background-white {
+    background-color:white;
+}
+h1, h2 {
+   color: darkgrey;
+   font-size: 40px;
+   margin-left: auto;
+   margin-right: auto;
+  width: 50%;
+   text-transform: uppercase;
+}
+h2 {
+font-size: 28px;
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p, ul {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+ul{
+    list-style: none;
+    display: block;margin-bottom: 15px;
+
+}
+ul li {
+    display: inline;
+    position: relative;
+    padding-left: 15px;
+    color: darkgrey;
+}
+ul li a {
+    background-color: darkgrey;
+    color: white;
+    text-decoration: none;
+}
