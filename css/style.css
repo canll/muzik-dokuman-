@@ -36,6 +36,7 @@ a:active {
 a:focus {
     color: deeppink;
 }
+
 img {
     display: block;
     margin-left: auto;
