@@ -1,7 +1,13 @@
 body {
     background-color: lightgray ;
     font-family: 'Lobster', cursive;
+
 }
+
+/* body:hover {
+    opacity: 0.8;
+} */
+
 nav, section {
     margin-left: 50px;
     margin-right: 50px;
@@ -21,11 +27,23 @@ h2 {
 font-size: 28px;
 
 }
+a:hover {
+    background-color: darkred;
+}
+a:active {
+    color: red;
+}
+a:focus {
+    color: deeppink;
+}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+img:hover{
+    opacity: 0.8;
 }
 p, ul {
     display: block;
