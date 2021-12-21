@@ -1,2 +1,2 @@
-# müzik dökümanı 
+# muzik dokumani
 
